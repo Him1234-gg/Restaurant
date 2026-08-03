@@ -1,0 +1,206 @@
+.Parent {
+    background: url(../WhatsApp\ Image\ 2026-07-23\ at\ 5.33.05\ PM.jpeg);
+    width: 100%;
+    height: 500px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+
+.menu {
+    display: inline-block;
+    background-color: rgba(254, 254, 36, 0.5);
+    border-radius: 5px;
+}
+
+.social {
+    display: inline-block;
+    border-radius: 5px;
+}
+
+ul li {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.Websites {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+span {
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.menu li {
+    margin: 7px;
+}
+
+.Title1 {
+    font-family: JOKERMAN;
+    color: white;
+    margin-left: 10px;
+}
+
+.text {
+    font-family: JOKERMAN;
+    color: white;
+    font-size: 20px;
+    width: 80%;
+    margin-left: 10px;
+}
+
+.button {
+    font-family: strain;
+    margin: 10px;
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+    font-family: "Jersey 10 Charted", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Parent2 {
+    background-color: lightgreen;
+    width: 100%;
+    height: 950px;
+}
+
+.FR{
+    margin-left:100px ;
+    margin-right: 10px;
+}
+
+.SR {
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.TR {
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.FR img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    margin: 40px;
+}
+
+.SR img {
+    width: 225px;
+    height: 225px;
+    border-radius: 50px;
+    margin: 40px;
+}
+
+.TR img {
+    width: 225px;
+    height: 225px;
+    border-radius: 50px;
+    margin: 40px;
+}
+
+.Order {
+    color: rgb(177, 123, 15);
+}
+
+.FR img:hover{
+    width:225px;
+    height: 225px;
+    border: 5px solid black;
+}
+
+.SR img:hover{
+    width:225px;
+    height: 225px;
+    border: 5px solid black;
+}
+
+.TR img:hover{
+    width:225px;
+    height: 225px;
+    border: 5px solid black;
+}
+.Parent3{
+    width: 100%;
+    height: 350px;
+    border-radius: 10%;
+    background-color: rgb(42, 223, 255);
+    margin-top: 10px;
+
+}
+.T{
+    width:30%;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.T img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.P{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.T img:hover{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+.LR{
+    border-radius: 10%;
+    background-color: rgb(6, 103, 120);
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+label{
+    font-size: 20px;
+    margin-right :20px;
+}
+
+.div1{
+    margin: 20px;
+    background-color: thistle;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 40%;
+    padding: 20px;
+}
+
+.Parent4{
+    background-image:url("https://media.istockphoto.com/id/1471444483/photo/customer-satisfaction-survey-concept-users-rate-service-experiences-on-online-application.jpg?s=612x612&w=0&k=20&c=HFh1o4JU68KWv7PXgbLdIZT0_qepmgePEkvbsLJr5p0=") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Bu{
+    text-align: center;
+}
